@@ -31,29 +31,18 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "College Management System (Java Swing) 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This College Management System is a Java Swing application developed using NetBeans, designed to simplify administrative tasks within a college or educational institution. It provides a user-friendly interface with CRUD (Create, Read, Update, Delete) operations for managing students, departments, and courses.",
+    url: "https://github.com/TouqeerAli/college-management-system-swing-gui",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Amazon clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Experience the convenience of online shopping with our user-friendly Amazon clone website.",
+    url: "https://github.com/TouqeerAli/Web-dev-projects/tree/main/Amazon%20clone",
   },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+  
 ];
 
 const Portfolio = () => {
